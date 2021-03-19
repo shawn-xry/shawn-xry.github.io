@@ -17,3 +17,5 @@ author: "Your Name"
 
 # Disqus config
 disqus-shortname: ""
+
+theme: jekyll-theme-slate
